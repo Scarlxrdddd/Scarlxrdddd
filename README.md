@@ -1,5 +1,5 @@
-🖖🏽・Welcome on my profile page, i'm Scarlxrd_d a young developper who's learning/practice very much.
+🖖🏽・Welcome on my profile page, i'm Scarlxrd_d a young developper who's learning/practice very much. I'm actually learning Java.
 
-⌨️・JavaScript, Java, NodeJS, HTML, CSS.
+⌨️・JavaScript, NodeJS, HTML, CSS.
 
 🔗・Process...
