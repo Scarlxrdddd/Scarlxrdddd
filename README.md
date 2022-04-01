@@ -1,5 +1,5 @@
-🖖🏽・Welcome on my profile page
+🖖🏽・Welcome on my profile page, i'm Scarlxrd_d a young developper who's learning/practice very much.
 
-⌨️・JS, C#, HTML, PhP
+⌨️・JavaScript, Java, NodeJS, HTML, CSS.
 
 🔗・Process...
