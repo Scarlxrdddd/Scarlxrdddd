@@ -4,5 +4,4 @@
 
 🔗・Process...
 
-![curry](https://i.gifer.com/6Ru.gif)
-<iframe src="https://gifer.com/embed/6Ru" width=480 height=262.080 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+![curry](https://i.pinimg.com/originals/f6/cc/c2/f6ccc2ca8f5d81ab675fc5350da090b0.gif)
