@@ -2,7 +2,7 @@
 
 ### 🆕・I'm actually learning Java.
 
-### ⌨️・JavaScript, NodeJS, HTML, CSS, C.
+### ⌨️・JavaScript, NodeJS, HTML, CSS and C++.
 
 ### 🔗・Loading...
 
