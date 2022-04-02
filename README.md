@@ -7,7 +7,7 @@
 ### 🔗・Loading...
 
 
-![Top Languages Card](https://ionicabizau.github.io/github-profile-languages/api.html?Scarlxrdddd)
+![Top Languages Card](http://ionicabizau.github.io/github-profile-languages/?user=Scarlxrdddd)
 
 
 ![qalf](https://user-images.githubusercontent.com/71601884/161361872-2cf00f83-e0bd-478d-a830-14dc098b6108.jpg)
